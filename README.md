@@ -1,2 +1,2 @@
-# python-courses
-Repository for Python courses this author took on Coursera.
+# Learning Python  
+Repository for Python courses taken online.
